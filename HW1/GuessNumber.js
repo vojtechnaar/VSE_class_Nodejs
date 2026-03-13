@@ -1,6 +1,5 @@
 /*
 Program for generating and guessing number 1-10
-1st homework for Node js class at VSE
 by Vojtech Naar
 */
 const readline = require("readline");
