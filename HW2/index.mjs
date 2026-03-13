@@ -3,7 +3,6 @@ Program for reading and writing into txt files
 by Vojtech Naar
 */
 
-
 import { readFile, writeFile } from "fs/promises";
 
 try {

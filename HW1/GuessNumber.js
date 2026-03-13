@@ -2,6 +2,7 @@
 Program for generating and guessing number 1-10
 by Vojtech Naar
 */
+
 const readline = require("readline");
 
 const rl = readline.createInterface({
