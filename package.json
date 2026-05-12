@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "ava",
+    "start:hw7": "node HW7/TodoServer.mjs",
+    "start:hw9": "node HW9/TodoServer.mjs"
+  },
+  "dependencies": {
+    "@hono/node-server": "^1.19.6",
+    "hono": "^4.10.7",
+    "ws": "^8.18.3"
+  },
+  "devDependencies": {
+    "ava": "^6.4.1"
+  }
+}
