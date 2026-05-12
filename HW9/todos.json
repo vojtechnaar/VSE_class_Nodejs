@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "title": "Public todo visible for everyone",
+    "done": false,
+    "priority": "normal"
+  },
+  {
+    "id": 2,
+    "title": "Alice private todo",
+    "done": false,
+    "priority": "high",
+    "user": "alice"
+  },
+  {
+    "id": 3,
+    "title": "Bob private todo",
+    "done": true,
+    "priority": "low",
+    "user": "bob"
+  },
+  {
+    "id": 1778602802641,
+    "title": "bob todo test",
+    "done": false,
+    "priority": "normal",
+    "user": "bob"
+  },
+  {
+    "id": 1778602814813,
+    "title": "vojta todo test",
+    "done": false,
+    "priority": "normal",
+    "user": "vojta"
+  }
+]
